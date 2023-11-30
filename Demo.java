@@ -4,5 +4,6 @@ public class Demo
         int a =10;
         String s = "Subha";
         boolean isEmp = true;
+        double price = 40.2;
     }
 }
