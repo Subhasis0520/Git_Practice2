@@ -4,7 +4,5 @@ public class Demo
         int a =10;
         String s = "Subha";
         boolean isEmp = true;
-        String gender = "male";
-        double price = 40.2;
     }
 }
